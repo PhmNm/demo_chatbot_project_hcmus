@@ -8,7 +8,7 @@ app using Django_ and ChatterBot_.
 Documentation
 -------------
 
-Start the Django app by running `python manage.py runserver 0.0.0.0:8000`
+Start the Django app by running `python manage.py runserver` or `python3 manage.py runserver`
 
 Further documentation on getting set up with Django and ChatterBot can be
 found in the `ChatterBot documentation`_.
