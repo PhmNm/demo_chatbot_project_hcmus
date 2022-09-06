@@ -3,7 +3,7 @@ ChatterBot Django Example
 
 This is an example Django app that shows how to create a simple chat bot web
 app using [Django](https://www.djangoproject.com) and [ChatterBot](https://github.com/gunthercox/ChatterBot).
-
+See our [report](https://github.com/PhmNm/demo_chatbot_project_hcmus/blob/master/report_final.pdf) about the chatbot
 Documentation
 -------------
 ### Before installation
